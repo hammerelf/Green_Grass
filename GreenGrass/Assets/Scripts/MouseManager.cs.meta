@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e52f0b5661ec1c4597cd53374bd925e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentHex: {fileID: 1347334903300186, guid: 338bdecede2c3cf42a782884355e41e2,
+      type: 2}
+  - HMM: {instanceID: 0}
+  - selectedUnit: {fileID: 1105210798275206, guid: edc7393a4d73493498c26337e5c6ed31,
+      type: 2}
+  - selectedUnitNameText: {instanceID: 0}
+  - sUnit: {fileID: 1105210798275206, guid: edc7393a4d73493498c26337e5c6ed31, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
